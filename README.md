@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Mohammed Z Raida, a Web Developer <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
 <p align="center">
+    <img src="https://www.codewars.com/users/mo7mad4_reda/badges/large" /><br><br><br>
     <a href="https://www.linkedin.com/in/mohammed-abu-raida-3766711a1/">
     <img src="https://img.shields.io/badge/-linkedin-%230966C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>

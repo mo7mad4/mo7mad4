@@ -11,10 +11,13 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.codewars.com/users/mo7mad4_reda">
-    <img src="https://img.shields.io/badge/-codewars-3A3A3A?style=for-the-badge&logo=codewars&logoColor=white" />
+    <img src="https://img.shields.io/badge/-codewars-b1361e?style=for-the-badge&logo=codewars&logoColor=white" />
     </a>
     <a href="https://www.freecodecamp.org/mo7mad4">
-    <img src="https://img.shields.io/badge/-freecodecamp-393939?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-freecodecamp-2a2a40?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/Mo7mad_Raida01">
+    <img src="https://img.shields.io/badge/-twitter-%230966C2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/mo7mad4_raida/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
